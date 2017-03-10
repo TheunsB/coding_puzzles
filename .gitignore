@@ -1,0 +1,9 @@
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+
+# Mac OS Files #
+.DS_Store
