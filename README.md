@@ -21,3 +21,9 @@ Mainfest file for building jar files is included.
 
 
 `java -jar JavaRulz.jar`
+
+For testing, the jars were coded and compiled with; 
+
+java version "1.8.0_25"
+Java(TM) SE Runtime Environment (build 1.8.0_25-b17)
+Java HotSpot(TM) 64-Bit Server VM (build 25.25-b02, mixed mode)
