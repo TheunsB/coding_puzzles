@@ -1,6 +1,0 @@
-#Keep only the relevant line. Depends on which jar needs to be built.
-
-#Main-Class: co.za.tbreyten.tests.ProgrammerTaskA
-#Main-Class: co.za.tbreyten.tests.ProgrammerTaskB
-#Main-Class: co.za.tbreyten.tests.JavaRulz
-
