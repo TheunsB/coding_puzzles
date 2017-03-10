@@ -1,6 +1,8 @@
 # Coding Puzzels
 
-Solutions to several coding puzzles
+Solutions to several coding puzzles.
+
+Mainfest file for building jar files is included.
 
 ## Jar Running Commands
 
