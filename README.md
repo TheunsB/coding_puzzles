@@ -6,9 +6,11 @@ Mainfest file for building jar files is included.
 
 ## Jar Running Commands
 
-`java -jar ProgrammerTaskA.jar "234234sdfsdf"
-java -jar ProgrammerTaskA.jar "12002"
-java -jar ProgrammerTaskA.jar "3.4"`
+`java -jar ProgrammerTaskA.jar "234234sdfsdf"`
+
+`java -jar ProgrammerTaskA.jar "12002"`
+
+`java -jar ProgrammerTaskA.jar "3.4"`
 
 
 `java -jar ProgrammerTaskB.jar "sdfsdfsdf"`
